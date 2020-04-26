@@ -1,4 +1,4 @@
-package com.zyy;
+package com.fan;
 
 import com.zyy.oauth.configuration.EnableOAuthClient;
 import org.springframework.boot.SpringApplication;
